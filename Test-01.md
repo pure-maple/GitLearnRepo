@@ -1,0 +1,1 @@
+测试GitKraken的Commit Message中Summary和Description。
